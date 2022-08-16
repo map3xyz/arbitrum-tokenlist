@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades."
+  },
+  "id": "8d393484-bea3-4a89-aa7b-00ad37b9b625",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "website": "https://gmx.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gmx/",
+    "coingecko": "https://coingecko.com/coins/gmx/",
+    "twitter": "https://twitter.com/GMX_IO",
+    "telegram": "https://t.me/GMX_IO"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a/logo.png"
+  },
+  "name": "GMX",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "GMX",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

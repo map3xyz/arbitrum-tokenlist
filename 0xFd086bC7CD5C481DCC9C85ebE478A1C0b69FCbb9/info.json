@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent."
+  },
+  "id": "e24db18c-357f-42ef-8ebc-1064b321b761",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+    "website": "https://tether.to/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tether/",
+    "coingecko": "https://coingecko.com/coins/tether/",
+    "twitter": "https://twitter.com/Tether_to",
+    "whitepaper": "https://stableset.com/audits/tether_audit_v1/tether_audit_v1.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
+  },
+  "name": "Tether USD",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "USDT",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

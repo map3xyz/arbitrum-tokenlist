@@ -1,0 +1,85 @@
+{
+  "name": "@Map3/arbitrum-tokenlist",
+  "timestamp": "2022-08-16T16:29:46.543Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "map3 assets"
+  ],
+  "tags": {
+    "wrapped": {
+      "name": "wrapped",
+      "description": "Asset wrapped using wormhole bridge"
+    },
+    "leveraged": {
+      "name": "leveraged",
+      "description": "Leveraged asset"
+    },
+    "bull": {
+      "name": "bull",
+      "description": "Leveraged Bull asset"
+    },
+    "bear": {
+      "name": "bear",
+      "description": "Leveraged Bear asset"
+    },
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "staking": {
+      "name": "staking",
+      "description": "Tokens that can be staked"
+    }
+  },
+  "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
+  "tokens": [
+    {
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "tags": []
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "tags": [
+        "stablecoin",
+        "defi"
+      ]
+    },
+    {
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "name": "USD Coin (Arb1)",
+      "decimals": 6,
+      "symbol": "USDC",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "name": "GMX",
+      "decimals": 18,
+      "symbol": "GMX",
+      "tags": [
+        "defi"
+      ]
+    }
+  ]
+}
