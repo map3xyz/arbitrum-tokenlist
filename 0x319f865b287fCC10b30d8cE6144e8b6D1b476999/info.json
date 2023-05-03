@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cartesi, The Blockchain OS, is a layer-2 platform for the development and deployment of scalable decentralized applications. The Blockchain OS offers a Linux operating system coupled with a blockchain infrastructure."
+  },
+  "id": "666a8f6a-2e9f-4eb6-adb1-996b4efd08ef",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+    "website": "https://cartesi.io/",
+    "telegram": "https://t.me/cartesiproject",
+    "twitter": "https://twitter.com/cartesiproject"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0x319f865b287fCC10b30d8cE6144e8b6D1b476999/logo.png"
+  },
+  "name": "Cartesi",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "CTSI",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
