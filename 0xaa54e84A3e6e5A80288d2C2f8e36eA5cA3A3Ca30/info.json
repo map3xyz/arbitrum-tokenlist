@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Sharbi is a community-owned, Arbitrum and Ethereum token. Sharbi is known for being the mistress of Shiba."
+  },
+  "id": "2274b668-35a3-441d-bcfb-b56aa3e1470a",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0xaa54e84a3e6e5a80288d2c2f8e36ea5ca3a3ca30",
+    "website": "https://sharbi.net/",
+    "telegram": "https://t.me/SharbiPortal",
+    "twitter": "https://twitter.com/SharbiToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30/logo.png"
+  },
+  "name": "SHARBI",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "SHARBI",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

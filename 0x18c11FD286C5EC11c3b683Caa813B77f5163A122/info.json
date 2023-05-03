@@ -1,0 +1,36 @@
+{
+  "active": true,
+  "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Gains Network is developing the next-gen decentralized leveraged trading platform - gTrade."
+  },
+  "id": "352ccfb3-57ed-425b-9480-5b3e370e14df",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+    "website": "https://gains.trade/",
+    "telegram": "https://t.me/GainsNetwork",
+    "coingecko": "https://coingecko.com/en/coins/gains-network/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/gains-network/",
+    "whitepaper": "https://gains-network.gitbook.io/docs-home/",
+    "docs": "https://gains-network.gitbook.io/docs-home/",
+    "discord": "https://discord.com/invite/gains-network",
+    "github": "https://github.com/GainsNetwork/",
+    "blog": "https://medium.com/gains-network",
+    "twitter": "https://twitter.com/GainsNetwork_io"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
+  },
+  "name": "Gains Network",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "GNS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

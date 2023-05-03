@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "dForce advocates for building an integrated and interoperable and scalable open finance protocol network, cultivating intra-protocol liquidity and network effects, while remain in full openness to interact and integrated with other protocols."
+  },
+  "id": "ec18d3f7-7d58-483d-8aba-80d1a5a3dd93",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+    "website": "http://dforce.network/",
+    "telegram": "https://t.me/dforcenet",
+    "github": "https://github.com/dforce-network/",
+    "coingecko": "https://coingecko.com/en/coins/dforce-token/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dforce/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689/logo.png"
+  },
+  "name": "dForce",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "DF",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

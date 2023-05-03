@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Stargate is a fully composable liquidity transport protocol."
+  },
+  "id": "5911a9ff-df6b-4798-b1a7-12170fb0b56b",
+  "links": {
+    "explorer": "https://arbiscan.io/token/0x6694340fc020c5e6b96567843da2df01b2ce1eb6",
+    "website": "https://stargate.finance/",
+    "telegram": "https://t.me/joinchat/LEM0ELklmO1kODdh",
+    "whitepaper": "https://stargateprotocol.gitbook.io/stargate/",
+    "coingecko": "https://coingecko.com/en/coins/stargate-finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/stargate-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/arbitrum-tokenlist/master/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
+  },
+  "name": "Stargate",
+  "networkCode": "arbitrum",
+  "spam": false,
+  "symbol": "STG",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

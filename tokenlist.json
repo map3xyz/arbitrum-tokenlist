@@ -1,6 +1,6 @@
 {
   "name": "@Map3/arbitrum-tokenlist",
-  "timestamp": "2023-01-05T14:59:21.146Z",
+  "timestamp": "2023-05-03T13:38:18.828Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -38,6 +38,24 @@
   "logoURI": "https://map3.xyz/images/brand/map3-open-graph.png",
   "tokens": [
     {
+      "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+      "name": "Gains Network",
+      "decimals": 18,
+      "symbol": "GNS",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x23A941036Ae778Ac51Ab04CEa08Ed6e2FE103614",
+      "name": "The Graph",
+      "decimals": 18,
+      "symbol": "GRT",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f",
       "name": "Axelar",
       "decimals": 6,
@@ -47,10 +65,49 @@
       ]
     },
     {
+      "address": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+      "name": "Radiant",
+      "decimals": 18,
+      "symbol": "RDNT",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0x319f865b287fCC10b30d8cE6144e8b6D1b476999",
+      "name": "Cartesi",
+      "decimals": 18,
+      "symbol": "CTSI",
+      "tags": []
+    },
+    {
+      "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+      "name": "JOE",
+      "decimals": 18,
+      "symbol": "JOE",
+      "tags": []
+    },
+    {
+      "address": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+      "name": "Stargate",
+      "decimals": 18,
+      "symbol": "STG",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
       "name": "Wrapped Ether",
       "decimals": 18,
       "symbol": "WETH",
+      "tags": []
+    },
+    {
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "name": "Arbitrum",
+      "decimals": 18,
+      "symbol": "ARB",
       "tags": []
     },
     {
@@ -89,6 +146,33 @@
       "symbol": "USDT",
       "tags": [
         "stablecoin"
+      ]
+    },
+    {
+      "address": "0xaE6aab43C4f3E0cea4Ab83752C278f8dEbabA689",
+      "name": "dForce",
+      "decimals": 18,
+      "symbol": "DF",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "address": "0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30",
+      "name": "SHARBI",
+      "decimals": 9,
+      "symbol": "SHARBI",
+      "tags": [
+        "memes"
+      ]
+    },
+    {
+      "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+      "name": "Okcash",
+      "decimals": 18,
+      "symbol": "OK",
+      "tags": [
+        "defi"
       ]
     },
     {
